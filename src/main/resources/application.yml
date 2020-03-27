@@ -1,0 +1,4 @@
+graphql:
+  packages: "com.brakefieldmn.graphqlKotlinServer"
+  playground:
+    enabled: true
